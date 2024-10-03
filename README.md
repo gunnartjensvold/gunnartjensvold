@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a norwegian fullstack developer and data scientist. Currently working on a large scale aplication for industrial facility planning.<br>🌱 I’m currently learning Vue.js and Nest.js
+🔭 I'm a norwegian fullstack developer and data scientist. Currently working on a large scale aplication for planning industrial and economic activities.<br>🌱 I’m currently learning Vue.js and Nest.js
 
 
 
